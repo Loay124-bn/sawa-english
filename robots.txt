@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://www.sawaenglish.app/sitemap.xml
+Sitemap: https://loay124-bn.github.io/sawa-english/
